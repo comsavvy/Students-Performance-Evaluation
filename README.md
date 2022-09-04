@@ -1,11 +1,46 @@
 # Student Performance Evaluation Project
 ## by: Olusola Timothy Ogundepo
 
-## Dataset (PISA Data) Description
+## PISA Data Description
 
-> PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
+PISA is a survey of students' skills and knowledge as they approach the end of compulsory education. It is not a conventional school test. Rather than examining how well students have learned the school curriculum, it looks at how well prepared they are for life beyond school.
 Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
 
+For the purpose of the data visualization and analysis, I will be working on the following columns in the dataset:
+* Student information and score in academic session
+    * Student ID (STIDSTD)
+    * Country (NC)
+    * Attended Primary Education (ST05Q01)
+    * Age at ISCED 1 (ST06Q01)
+    * Gender (ST04Q01)
+    * International Grade (ST01Q01)
+    * Truancy - Late for School (ST08Q01)
+    * Truancy - Skip whole school day (ST09Q01)
+    * Truancy - Skip classes within school day (ST115Q01)
+    * Possessions - own room (ST26Q02)
+    * Possessions - study place (ST26Q03)
+    * Possessions - computer (ST26Q04)
+    * Possessions - Internet (ST26Q06)
+    * Possessions - textbooks (ST26Q10)
+    * Math Interest - Interested (ST29Q06)
+    * Math Anxiety - Worry That It Will Be Difficult (ST42Q01)
+    * Mathematics Behaviour (MATBEH)
+    * Mathematics Exam score (PV1MATH)
+    * Reading Exam score (PV1READ)
+    * Science Exam score (PV1SCIE)
+    * Attributions to Failure - Teacher Did Not Explain Well (ST44Q03)
+    
+* Parent schooling information and career status
+    * Mother\<Highest Schooling> (ST13Q01)
+    * Father\<Highest Schooling> (ST17Q01)
+    * Mother Current Job Status (ST15Q01)
+    * Father Current Job Status (ST19Q01)
+    * Father Occupation Status (BFMJ2)
+    * Mother Occupation Status (BMMJ1)
+
+* Teacher contribution and support
+    * Teacher Behaviour (TCHBEHFA)
+    * Teacher Support (TEACHSUP)
 
 ## Summary of Findings
 ### Univariate Findings
