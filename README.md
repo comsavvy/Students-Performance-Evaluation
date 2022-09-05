@@ -67,4 +67,11 @@ For the purpose of the data visualization and analysis, I will be working on the
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+- Early Education Influence on Student performance in Academics
+- Influence of Primary Education of Student Academic Performance
+- Impact of students Possessions on their Academic Performance
+- Possession of study place effect on Student Performance
+- Student Interest effect on their Performance in Examination
+- Effect of Parent Academic Degree on Students Performance
+- Effect of Parent Employment Status on Student Performance
+- Parent Earning effect on Student Education Performance
