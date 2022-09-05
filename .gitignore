@@ -2,3 +2,5 @@ pisa2012.csv.zip
 pisadict2012.csv
 pisa2012/pisa2012.csv
 process_data.csv
+.ipynb_checkpoints/*
+.gitignore
